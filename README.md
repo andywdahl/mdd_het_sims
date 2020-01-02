@@ -1,4 +1,4 @@
-# Simulating realistic genetic heterogeneity in case/control data
+# Simulating realistic case/control genetic heterogeneity
 
 Simulation code I contributed to Peterson et al 2018 AJP:
 
